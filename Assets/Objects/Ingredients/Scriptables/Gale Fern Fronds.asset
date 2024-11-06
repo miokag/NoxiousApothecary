@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 853fa3b5c7c2bfa4e9cb8bf0527cf588, type: 3}
+  m_Name: Gale Fern Fronds
+  m_EditorClassIdentifier: 
+  ingredientName: Gale Fern Fronds
+  condition: None
+  description: Gale Fern Fronds Description
+  icon: {fileID: 21300000, guid: 6bfdc9cb6b3028d4081ec46f9e90cc3f, type: 3}
+  prefab: {fileID: 4644489467625353422, guid: 8d0e2171549257140890ecf22137efa2, type: 3}
