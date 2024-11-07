@@ -1735,7 +1735,6 @@ MonoBehaviour:
   customerPrefabs:
   - {fileID: 2293080396083402471, guid: 026a5d7615af01342948bf1c5c6d27d7, type: 3}
   - {fileID: 7690022688959701296, guid: 59ee6b3d5f9162f40bc22766a1411cfd, type: 3}
-  - {fileID: 8713024177742108482, guid: 6f5a5b5e26dbdfb48909cb84b20df4e9, type: 3}
   doorSpawnPoint: {fileID: 629335851}
 --- !u!4 &1902728249
 Transform:

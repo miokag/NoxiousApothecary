@@ -15,5 +15,5 @@ MonoBehaviour:
   ingredientName: Opium Poppy Tree
   condition: None
   description: Opium Poppy Tree Description
-  icon: {fileID: 21300000, guid: f618b3791ddb57b4c902e35c70936225, type: 3}
+  icon: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   prefab: {fileID: 7717354451501847635, guid: 81d769ab3b9892843b48eb662fb5db73, type: 3}
